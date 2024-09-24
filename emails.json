@@ -1,0 +1,38 @@
+[
+    {
+        "email": "xyshzjypdh@1secmail.net",
+        "messages": [
+            {
+                "subject": "New message",
+                "fromAddress": "example@gmail.com",
+                "body": "<div dir=\"ltr\">hello</div>\n"
+            },
+            {
+                "subject": "",
+                "body": "<div dir=\"ltr\">hello</div>\n"
+            }
+        ]
+    },
+    {
+        "email": "wgsycgchiw@1secmail.com",
+        "messages": []
+    },
+    {
+        "email": "sfvbilesmp@1secmail.net",
+        "messages": [
+            {
+                "subject": "New message",
+                "fromAddress": "example@gmail.com",
+                "body": "<div dir=\"ltr\">\u0441\u0430\u043c \u0441\u043e\u0441\u0438</div>\r\n"
+            },
+            {
+                "subject": "\u0441\u043e\u0441\u0438",
+                "body": "<div dir=\"ltr\">\u0441\u0430\u043c \u0441\u043e\u0441\u0438</div>\r\n"
+            }
+        ]
+    },
+    {
+        "email": "ojjcyehxxj@1secmail.net",
+        "messages": []
+    }
+]
